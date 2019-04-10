@@ -1,0 +1,20 @@
+
+DIRLAB 4DCT lung images were used. Please refer to www.dir-lab.com  and the references papers for more details.
+
+improved_dirlab_landmark_pairs folder contains improved dirlab 300 landmark pairs. Only part of the dirlab landmarks were improved. The remaining were unchanged.
+dense_landmark_pairs folder contains new dense landmark pairs, 
+
+
+EE represents End-Exhalation phase
+EI represents End-Inhalation phase
+
+
+
+Please cite original dirlab papers and our paper if you found the datasets useful.
+
+1. Accurate and Dense Landmark Pairs Detection for 4DCT Lung Deformable Image Registration Evaluation (submitted)
+Yabo Fu, Xue Wu, Allan Thomas, Harold H. Li, Deshan Yang*
+
+2. "A framework for evaluation of deformable image registration spatial accuracy using large landmark point sets,"
+R. Castillo, E. Castillo, R. Guerra, V.E. Johnson, T. McPhail, A.K. Garg, T. Guerrero, 
+Physics in medicine and biology 54 7, 1849-1870 (2009).
