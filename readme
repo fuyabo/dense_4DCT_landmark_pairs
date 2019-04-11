@@ -11,8 +11,11 @@ B. dense_landmark_pairs folder contains
     2. see pdf files for some randomly selected landmark pairs
 
 Note:
+  1. Only landmark pair datasets were shared here. Please go to www.dir-lab.com to download original 4DCT datasets.
+  2. When use this datasets, note that the first dimension and second dimention were swapped [y, x, z] compared to original DirLab landmark pairs [x, y, z].
   EE represents End-Exhalation phase
   EI represents End-Inhalation phase
+  
 
 
 
