@@ -1,12 +1,18 @@
 
+Disclaimer: This work is heavily based on R. Castillo et al.'s DIRLAB work (www.dir-lab.com). Please cite and give acknowledgement to their work. 
+
 DIRLAB 4DCT lung images were used. Please refer to www.dir-lab.com  and the references papers for more details.
 
-improved_dirlab_landmark_pairs folder contains improved dirlab 300 landmark pairs. Only part of the dirlab landmarks were improved. The remaining were unchanged.
-dense_landmark_pairs folder contains new dense landmark pairs, 
+A. improved_dirlab_landmark_pairs folder contains 
+    1. improved dirlab 300 landmark pairs. Only part of the dirlab landmarks were improved. The remaining were unchanged.
+    2. see pdf files for visual comparison between landmark pairs before and after refinements.
+B. dense_landmark_pairs folder contains 
+    1. new dense landmark pairs, 
+    2. see pdf files for some randomly selected landmark pairs
 
-
-EE represents End-Exhalation phase
-EI represents End-Inhalation phase
+Note:
+  EE represents End-Exhalation phase
+  EI represents End-Inhalation phase
 
 
 
